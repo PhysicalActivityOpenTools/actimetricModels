@@ -11,7 +11,9 @@ A train.formula object to make predictions on new data
 }
 }
 \source{
-Trost SG, et al. Physiol Meas. 2014. PMID: 25340887
+Ahmadi MN, Pfeiffer KA, Trost SG.
+Physical Activity Classification in Youth Using Raw Accelerometer Data from
+the Hip. Meas Phys Edu Exerc Sci. 2020; 24(2):129-136. doi: 10.1080/1091367X.2020.1716768
 }
 \usage{
 LVAY.RF.Hip10
@@ -21,5 +23,10 @@ RF model for applying the School Age Hip Classifier in the actimetric package.
 }
 \examples{
 data(LVAY.RF.Hip10)
+}
+\references{
+Ahmadi MN, Pfeiffer KA, Trost SG.
+Physical Activity Classification in Youth Using Raw Accelerometer Data from
+the Hip. Meas Phys Edu Exerc Sci. 2020; 24(2):129-136. doi: 10.1080/1091367X.2020.1716768
 }
 \keyword{datasets}

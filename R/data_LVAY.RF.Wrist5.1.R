@@ -6,7 +6,14 @@
 #' \describe{
 #' \item{LVAY.RF.Wrist5.1}{The RF model}
 #' }
-#' @source Trost SG, et al. Physiol Meas. 2014. PMID: 25340887
+#' @source Chowdhury AK, Tjondronegoro D,
+#' Chandran V, Trost SG. Ensemble Methods for Classification of Physical Activities
+#' from Wrist Accelerometry. Med Sci Sports Exerc. 2017 Sep;49(9):1965-1973.
+#' doi: 10.1249/MSS.0000000000001291
+#' @references Chowdhury AK, Tjondronegoro D,
+#' Chandran V, Trost SG. Ensemble Methods for Classification of Physical Activities
+#' from Wrist Accelerometry. Med Sci Sports Exerc. 2017 Sep;49(9):1965-1973.
+#' doi: 10.1249/MSS.0000000000001291
 #'
 #' @examples
 #' data(LVAY.RF.Wrist5.1)
