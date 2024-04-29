@@ -12,7 +12,10 @@ A list containing the HMM and the RF models.
 }
 }
 \source{
-Ellis et al.Med Sci Sports Exerc. 2016 May;48(5):933-40.
+Ellis K, Kerr J, Godbole S,
+Staudenmayer J, Lanckriet G. Hip and Wrist Accelerometer Algorithms for
+Free-Living Behavior Classification. Med Sci Sports Exerc. 2016 May;48(5):933-40.
+doi: 10.1249/MSS.0000000000000840
 }
 \usage{
 Ellis.Wrist.RF.HMM
@@ -22,5 +25,11 @@ HMM and RF models for applying the Ellis Wrist Classifier in the actimetric pack
 }
 \examples{
 data(Ellis.Wrist.RF.HMM)
+}
+\references{
+Ellis K, Kerr J, Godbole S,
+Staudenmayer J, Lanckriet G. Hip and Wrist Accelerometer Algorithms for
+Free-Living Behavior Classification. Med Sci Sports Exerc. 2016 May;48(5):933-40.
+doi: 10.1249/MSS.0000000000000840
 }
 \keyword{datasets}

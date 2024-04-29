@@ -11,7 +11,10 @@ A train.formula object to make predictions on new data
 }
 }
 \source{
-Trost SG, et al. Physiol Meas. 2014. PMID: 25340887
+Chowdhury AK, Tjondronegoro D,
+Chandran V, Trost SG. Ensemble Methods for Classification of Physical Activities
+from Wrist Accelerometry. Med Sci Sports Exerc. 2017 Sep;49(9):1965-1973.
+doi: 10.1249/MSS.0000000000001291
 }
 \usage{
 LVAY.RF.Wrist5.1
@@ -21,5 +24,11 @@ RF model for applying the School Age Wrist Classifier in the actimetric package.
 }
 \examples{
 data(LVAY.RF.Wrist5.1)
+}
+\references{
+Chowdhury AK, Tjondronegoro D,
+Chandran V, Trost SG. Ensemble Methods for Classification of Physical Activities
+from Wrist Accelerometry. Med Sci Sports Exerc. 2017 Sep;49(9):1965-1973.
+doi: 10.1249/MSS.0000000000001291
 }
 \keyword{datasets}

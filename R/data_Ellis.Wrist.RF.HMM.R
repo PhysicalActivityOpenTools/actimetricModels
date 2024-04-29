@@ -7,7 +7,14 @@
 #' \item{hmm}{The HMM model}
 #' \item{rf}{The RF model of class randomForest}
 #' }
-#' @source Ellis et al.Med Sci Sports Exerc. 2016 May;48(5):933-40.
+#' @source Ellis K, Kerr J, Godbole S,
+#' Staudenmayer J, Lanckriet G. Hip and Wrist Accelerometer Algorithms for
+#' Free-Living Behavior Classification. Med Sci Sports Exerc. 2016 May;48(5):933-40.
+#' doi: 10.1249/MSS.0000000000000840
+#' @references Ellis K, Kerr J, Godbole S,
+#' Staudenmayer J, Lanckriet G. Hip and Wrist Accelerometer Algorithms for
+#' Free-Living Behavior Classification. Med Sci Sports Exerc. 2016 May;48(5):933-40.
+#' doi: 10.1249/MSS.0000000000000840
 #'
 #' @examples
 #' data(Ellis.Wrist.RF.HMM)

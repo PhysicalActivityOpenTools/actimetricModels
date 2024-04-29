@@ -11,7 +11,10 @@ A randomForest object to make predictions on new data
 }
 }
 \source{
-Trost SG, et al. Med Sci Sports Exerc. 2018 Mar;50(3):634-641.
+Pavey TG, Gilson ND, Gomersall SR, Clark B,
+Trost SG. Field evaluation of a random forest activity classifier for wrist-worn
+accelerometer data. J Sci Med Sport. 2017 Jan;20(1):75-80.
+doi: 10.1016/j.jsams.2016.06.003
 }
 \usage{
 trostRF_7112014
@@ -21,5 +24,11 @@ RF model for applying the Adult Wrist Classifier (Trost) in the actimetric packa
 }
 \examples{
 data(trostRF_7112014)
+}
+\references{
+Pavey TG, Gilson ND, Gomersall SR, Clark B,
+Trost SG. Field evaluation of a random forest activity classifier for wrist-worn
+accelerometer data. J Sci Med Sport. 2017 Jan;20(1):75-80.
+doi: 10.1016/j.jsams.2016.06.003
 }
 \keyword{datasets}

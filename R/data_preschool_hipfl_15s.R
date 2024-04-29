@@ -6,7 +6,12 @@
 #' \describe{
 #' \item{preschool_hipfl_15s}{The RF model}
 #' }
-#' @source Trost SG, et al. Med Sci Sports Exerc. 2018 Mar;50(3):634-641.
+#' @source Ahmadi MN, Pavey TG, Trost SG. Machine Learning
+#' Models for Classifying Physical Activity in Free-Living Preschool Children.
+#' Sensors (Basel). 2020 Aug 5;20(16):4364. doi: 10.3390/s20164364
+#' @references Ahmadi MN, Pavey TG, Trost SG. Machine Learning
+#' Models for Classifying Physical Activity in Free-Living Preschool Children.
+#' Sensors (Basel). 2020 Aug 5;20(16):4364. doi: 10.3390/s20164364
 #'
 #' @examples
 #' data(preschool_hipfl_15s)
